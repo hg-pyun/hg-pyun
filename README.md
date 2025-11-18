@@ -3,7 +3,6 @@
 ## 👤 About Me
 
 - **Name**: Haegul Pyun  
-- **GitHub**: [github.com/hg-pyun](https://github.com/hg-pyun)  
 - **Location**: Seoul, Republic of Korea
 
 I’m a developer passionate about **functional programming**, **JavaScript/TypeScript**, and open-source. I enjoy solving problems, building tools and libraries, and contributing to developer communities.
@@ -12,10 +11,10 @@ I’m a developer passionate about **functional programming**, **JavaScript/Type
 
 ## 🚀 What I Do
 
-- Build open-source libraries and tools, especially in JS/TS ecosystem  
+- Build open-source libraries and tools, especially in JS/TS ecosystem
 - Maintain and contribute to translation/localization efforts (e.g., React documentation)  
-- Share articles, thoughts, and code on developer topics  
-- Collaborate with teams, mentor others, and drive best practices  
+- Share articles, thoughts, and code on developer topics
+- Collaborate with teams, mentor others, and drive best practices
 
 ---
 
@@ -37,7 +36,6 @@ Here are a few of my public repositories you might find interesting:
 - Web & frontend ecosystems (React, etc.)  
 - Open-source community, localization & documentation  
 - Developer experience (DX), code clarity, maintainable architecture  
-
 
 ---
 
